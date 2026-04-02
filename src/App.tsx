@@ -10,7 +10,7 @@ import { Lock, Users, BarChart3, ShieldAlert, Mic, Send, LogOut, Info, AlertTria
 
 const PLAYERS = ["Anji", "KT", "Purna K", "Purna S", "Srini", "Kishore"];
 const ADMIN_ID = "KT";
-const ADMIN_PASS = "KT_Admin_2026"; // మామ, నీకు నచ్చినట్లు మార్చుకో
+const ADMIN_PASS = "123"; // మామ, నీకు నచ్చినట్లు మార్చుకో
 const PLAYER_DEFAULT_PASS = "1234";
 
 export default function App() {
